@@ -4,7 +4,7 @@ The notebook also includes a description of all asked functions above each block
 
 # Requirements
 `spacy` (and it's english model) was used as additional library
-- run `pip install spacy` for spacy itself
+- run `conda install spacy` or `pip install spacy` for spacy itself
 - run `python -m spacy download en_core_web_sm` for the english model
 
 Also `pandas` was used to print nice tables
